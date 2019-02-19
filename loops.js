@@ -13,7 +13,3 @@ function whileLoop(n) {
     console.log(--n);
   }return "done";
 }
-function doWhileLoop() {
-  do {
-    console.log("I run once regardless.")
-}}
